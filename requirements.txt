@@ -1,7 +1,5 @@
 feedparser>=6.0.10
 Mastodon.py==1.8.1
 requests==2.31.0
-cython
-faust-cchardet
-twint @ git+https://github.com/woluxwolu/twint.git
+twint @ git+https://github.com/syntheticsloth/twint.git
 yt-dlp>=2023.3.4
